@@ -1,2 +1,2 @@
 # Easymeds
-Bloodbank management
+medical store management
